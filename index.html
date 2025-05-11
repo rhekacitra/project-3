@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Comparing Surgical Approaches Across Time, BMI, Blood Loss, Mortality, and Age</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+
+    .container {
+      max-width: 100%;
+      overflow-x: auto;
+      padding: 0 20px;
+    }
+
+    svg {
+      display: block;
+      margin: 0 auto;
+      font: 10px sans-serif;
+      background: white;
+    }
+
+    .axis line,
+    .axis path {
+      stroke: #000;
+    }
+
+    .foreground path {
+      fill: none;
+      stroke-width: 1;
+      stroke-opacity: 0.3;
+    }
+
+    .controls {
+      margin-bottom: 10px;
+    }
+
+    .controls label {
+      margin-right: 1em;
+    }
+
+    .legend-wrapper {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    .legend {
+      display: inline-flex;
+      gap: 20px;
+      justify-content: center;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 14px;
+    }
+
+    .legend-color {
+      width: 14px;
+      height: 14px;
+      border-radius: 3px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h2>Comparing Surgical Approaches Across Time, BMI, Blood Loss, Mortality, and Age</h2>
+
+  <div class="controls">
+    <label><input type="checkbox" value="Robotic" checked> Robotic</label>
+    <label><input type="checkbox" value="Videoscopic" checked> Videoscopic</label>
+    <label><input type="checkbox" value="Open" checked> Open</label>
+  </div>
+
+  <div class="container">
+    <svg id="chart" width="1000" height="600"></svg>
+  </div>
+
+  <div class="legend-wrapper">
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <script>
+    const svg = d3.select("#chart");
+    const width = +svg.attr("width");
+    const height = +svg.attr("height");
+
+    const margin = { top: 30, right: 60, bottom: 10, left: 60 };
+    const innerWidth = width - margin.left - margin.right;
+    const innerHeight = height - margin.top - margin.bottom;
+
+  const colorMap = {
+    Robotic: "#e63946",      
+    Open: "#a8cfff",      
+    Videoscopic: "#78c679"   
+  };
+
+
+
+    const line = d3.line();
+    const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+    let allData, yScale, xScale;
+
+    const dimensions = [
+      { key: "surgery_time_hours", label: "Surgery Time (hours)" },
+      { key: "bmi", label: "BMI (kg/m²)" },
+      { key: "intraop_ebl", label: "Blood Loss (mL)" },
+      { key: "death_inhosp", label: "Death in Hospital" },
+      { key: "age", label: "Age (years)" }
+    ];
+
+    d3.json("cases_filtered.json").then(data => {
+      data.forEach((d, i) => d._id = i);
+      allData = data;
+
+      const approachCounts = d3.rollup(
+        allData,
+        v => v.length,
+        d => d.approach
+      );
+
+      const legendDiv = d3.select("#legend");
+      Array.from(approachCounts.entries()).forEach(([approach, count]) => {
+        legendDiv.append("div")
+          .attr("class", "legend-item")
+          .html(`
+            <span class="legend-color" style="background:${colorMap[approach]}"></span>
+            <span>${approach}: ${count}</span>
+          `);
+      });
+
+      yScale = {};
+      dimensions.forEach(({ key }) => {
+        const values = allData.map(p => +p[key]);
+        yScale[key] = d3.scaleLinear()
+          .domain(d3.extent(values))
+          .range([innerHeight, 0]);
+      });
+
+      xScale = d3.scalePoint()
+        .domain(dimensions.map(d => d.label))
+        .range([0, innerWidth]);
+
+      const gAxis = g.selectAll(".axis")
+        .data(dimensions)
+        .join("g")
+        .attr("class", "axis")
+        .attr("transform", d => `translate(${xScale(d.label)},0)`)
+        .each(function(d) {
+          d3.select(this).call(d3.axisLeft(yScale[d.key]));
+        });
+
+      gAxis.append("text")
+        .attr("y", -9)
+        .attr("x", 0)
+        .attr("text-anchor", "middle")
+        .attr("fill", "black")
+        .style("font-size", "12px")
+        .text(d => d.label);
+
+      drawLines(getSelectedApproaches());
+    });
+
+    function drawLines(approaches) {
+      const filtered = approaches.flatMap(approach => {
+        const subset = allData.filter(d => d.approach === approach);
+        const count = Math.max(1, Math.floor(subset.length * 0.1));
+        return d3.shuffle(subset).slice(0, count);
+      });
+
+      let pathGroup = g.select("g.foreground");
+      if (pathGroup.empty()) {
+        pathGroup = g.append("g").attr("class", "foreground");
+      }
+
+      const paths = pathGroup.selectAll("path")
+        .data(filtered, d => d._id);
+
+      paths.join(
+        enter => enter.append("path")
+          .attr("d", d => line(dimensions.map(p => [xScale(p.label), yScale[p.key](+d[p.key])])))
+          .attr("stroke", d => colorMap[d.approach])
+          .attr("stroke-opacity", 1)
+          .attr("stroke-width", 4)
+          .attr("fill", "none"),
+        update => update,
+        exit => exit.remove()
+      );
+    }
+
+    function getSelectedApproaches() {
+      return Array.from(document.querySelectorAll(".controls input:checked"))
+                  .map(input => input.value);
+    }
+
+    d3.selectAll(".controls input").on("change", function () {
+      drawLines(getSelectedApproaches());
+    });
+  </script>
+</body>
+</html>
