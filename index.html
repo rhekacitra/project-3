@@ -33,9 +33,9 @@
     const innerHeight = height - margin.top - margin.bottom;
 
     const colorMap = {
-      Robotic: "#e63946",      // bold red
-      Open: "#a8cfff",         // soft blue
-      Videoscopic: "#78c679"   // slightly darker green
+      Robotic: "#e63946",     
+      Open: "#a8cfff",         
+      Videoscopic: "#78c679"   
     };
 
     const line = d3.line();
@@ -110,6 +110,11 @@
         return d3.shuffle(subset).slice(0, count);
       });
 
+      filtered.sort((a, b) => {
+        const order = { Open: 0, Videoscopic: 1, Robotic: 2 };
+        return order[a.approach] - order[b.approach];
+      });
+
       let pathGroup = g.select("g.foreground");
       if (pathGroup.empty()) {
         pathGroup = g.append("g").attr("class", "foreground");
@@ -123,7 +128,7 @@
           .attr("d", d => line(dimensions.map(p => [xScale(p.label), yScale[p.key](+d[p.key])])))
           .attr("stroke", d => colorMap[d.approach])
           .attr("stroke-opacity", 1)
-          .attr("stroke-width", 4)
+          .attr("stroke-width", 2.5)
           .attr("fill", "none"),
         update => update,
         exit => exit.remove()
