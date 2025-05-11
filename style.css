@@ -21,10 +21,9 @@ svg {
   stroke: #000;
 }
 
+/* Removed stroke-opacity and stroke-width to let D3 control them */
 .foreground path {
   fill: none;
-  stroke-opacity: 1;
-  stroke-width: 4;
 }
 
 .controls {

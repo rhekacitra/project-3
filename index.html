@@ -14,7 +14,7 @@
     <label><input type="checkbox" value="Videoscopic" checked> Videoscopic</label>
     <label><input type="checkbox" value="Open" checked> Open</label>
   </div>
-
+  
   <div class="container">
     <svg id="chart" width="2000" height="1000"></svg>
   </div>
@@ -127,7 +127,7 @@
         enter => enter.append("path")
           .attr("d", d => line(dimensions.map(p => [xScale(p.label), yScale[p.key](+d[p.key])])))
           .attr("stroke", d => colorMap[d.approach])
-          .attr("stroke-opacity", .4)
+          .attr("stroke-opacity", 0.3)
           .attr("stroke-width", 2)
           .attr("fill", "none"),
         update => update,
