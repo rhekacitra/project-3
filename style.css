@@ -21,11 +21,6 @@ svg {
   stroke: #000;
 }
 
-/* Removed stroke-opacity and stroke-width to let D3 control them */
-.foreground path {
-  fill: none;
-}
-
 .controls {
   margin-bottom: 10px;
 }
@@ -57,4 +52,25 @@ svg {
   height: 14px;
   border-radius: 3px;
   display: inline-block;
+}
+
+path.approach-robotic {
+  stroke: #e63946;
+  stroke-width: 2;
+  stroke-opacity: 0.3;
+  fill: none;
+}
+
+path.approach-open {
+  stroke: #a8cfff;
+  stroke-width: 2;
+  stroke-opacity: 0.3;
+  fill: none;
+}
+
+path.approach-videoscopic {
+  stroke: #78c679;
+  stroke-width: 2;
+  stroke-opacity: 0.3;
+  fill: none;
 }
