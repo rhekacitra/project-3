@@ -1,72 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Comparing Surgical Approaches Across Time, BMI, Blood Loss, Mortality, and Age</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-    }
-
-    .container {
-      max-width: 100%;
-      overflow-x: auto;
-      padding: 0 20px;
-    }
-
-    svg {
-      display: block;
-      margin: 0 auto;
-      font: 10px sans-serif;
-      background: white;
-    }
-
-    .axis line,
-    .axis path {
-      stroke: #000;
-    }
-
-    .foreground path {
-      fill: none;
-      stroke-width: 1;
-      stroke-opacity: 0.3;
-    }
-
-    .controls {
-      margin-bottom: 10px;
-    }
-
-    .controls label {
-      margin-right: 1em;
-    }
-
-    .legend-wrapper {
-      margin-top: 20px;
-      text-align: center;
-    }
-
-    .legend {
-      display: inline-flex;
-      gap: 20px;
-      justify-content: center;
-    }
-
-    .legend-item {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 14px;
-    }
-
-    .legend-color {
-      width: 14px;
-      height: 14px;
-      border-radius: 3px;
-      display: inline-block;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <h2>Comparing Surgical Approaches Across Time, BMI, Blood Loss, Mortality, and Age</h2>
@@ -78,7 +16,7 @@
   </div>
 
   <div class="container">
-    <svg id="chart" width="1000" height="600"></svg>
+    <svg id="chart" width="2000" height="1000"></svg>
   </div>
 
   <div class="legend-wrapper">
@@ -94,13 +32,11 @@
     const innerWidth = width - margin.left - margin.right;
     const innerHeight = height - margin.top - margin.bottom;
 
-  const colorMap = {
-    Robotic: "#e63946",      
-    Open: "#a8cfff",      
-    Videoscopic: "#78c679"   
-  };
-
-
+    const colorMap = {
+      Robotic: "#e63946",      // bold red
+      Open: "#a8cfff",         // soft blue
+      Videoscopic: "#78c679"   // slightly darker green
+    };
 
     const line = d3.line();
     const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
