@@ -1,0 +1,4802 @@
+[
+  {
+    "approach": "Robotic",
+    "surgery_time": 11400,
+    "bmi": 20.8,
+    "blood_loss": 1050.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8100,
+    "bmi": 25.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 23.5,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 24300,
+    "bmi": 20.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 23.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 24.7,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 31200,
+    "bmi": 21.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7800,
+    "bmi": 24.5,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 23.8,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6300,
+    "bmi": 25.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 3600,
+    "bmi": 26.2,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 40.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10380,
+    "bmi": 24.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 29400,
+    "bmi": 25.1,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13200,
+    "bmi": 31.9,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9300,
+    "bmi": 27.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12300,
+    "bmi": 27.9,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 38700,
+    "bmi": 20.4,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8691,
+    "bmi": 28.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 31800,
+    "bmi": 21.1,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18300,
+    "bmi": 19.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 36000,
+    "bmi": 22.4,
+    "blood_loss": 80.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 27.2,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9600,
+    "bmi": 21.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12000,
+    "bmi": 20.9,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6300,
+    "bmi": 26.1,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11400,
+    "bmi": 25.3,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13200,
+    "bmi": 23.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12600,
+    "bmi": 24.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10500,
+    "bmi": 28.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 26.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8100,
+    "bmi": 32.9,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13200,
+    "bmi": 27.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 24000,
+    "bmi": 22.5,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7800,
+    "bmi": 28.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 28.3,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7800,
+    "bmi": 22.9,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4500,
+    "bmi": 24.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15571,
+    "bmi": 23.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 26700,
+    "bmi": 16.0,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13200,
+    "bmi": 24.6,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 2100,
+    "bmi": 22.2,
+    "blood_loss": 10.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 21600,
+    "bmi": 25.3,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18000,
+    "bmi": 22.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 20.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 24.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 25500,
+    "bmi": 20.6,
+    "blood_loss": 750.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 30.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 36.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 22500,
+    "bmi": 22.5,
+    "blood_loss": 354.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8700,
+    "bmi": 24.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10500,
+    "bmi": 29.3,
+    "blood_loss": 900.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6000,
+    "bmi": 29.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11700,
+    "bmi": 24.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15000,
+    "bmi": 28.1,
+    "blood_loss": 700.0,
+    "mortality": 1,
+    "age": 72.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4800,
+    "bmi": 18.3,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 12.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 32100,
+    "bmi": 27.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 56400,
+    "bmi": 24.1,
+    "blood_loss": 4700.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4800,
+    "bmi": 24.1,
+    "blood_loss": 80.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 23.2,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 17100,
+    "bmi": 22.8,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 19500,
+    "bmi": 20.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6000,
+    "bmi": 24.0,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 23700,
+    "bmi": 23.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18600,
+    "bmi": 23.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 78.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9300,
+    "bmi": 22.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9780,
+    "bmi": 25.5,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15900,
+    "bmi": 25.2,
+    "blood_loss": 1300.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 31.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 82.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 20340,
+    "bmi": 21.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11100,
+    "bmi": 22.0,
+    "blood_loss": 1100.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 19.6,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12000,
+    "bmi": 21.3,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 25.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6900,
+    "bmi": 23.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 23.3,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 17400,
+    "bmi": 22.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 23.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 27600,
+    "bmi": 18.9,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 25.7,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 26700,
+    "bmi": 21.3,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 33.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11700,
+    "bmi": 21.5,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15900,
+    "bmi": 21.1,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 33.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12300,
+    "bmi": 24.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11700,
+    "bmi": 25.6,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13500,
+    "bmi": 21.2,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 22.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4200,
+    "bmi": 25.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10200,
+    "bmi": 20.7,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 20100,
+    "bmi": 25.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15000,
+    "bmi": 26.2,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11400,
+    "bmi": 28.7,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11700,
+    "bmi": 22.3,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12300,
+    "bmi": 19.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18300,
+    "bmi": 19.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 21.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 85.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9000,
+    "bmi": 31.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 30.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13200,
+    "bmi": 23.7,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16500,
+    "bmi": 20.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4200,
+    "bmi": 25.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13620,
+    "bmi": 29.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 21.0,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 25200,
+    "bmi": 20.7,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10500,
+    "bmi": 24.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 25200,
+    "bmi": 19.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 27840,
+    "bmi": 27.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9600,
+    "bmi": 26.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15000,
+    "bmi": 16.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 40.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6000,
+    "bmi": 18.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7440,
+    "bmi": 34.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 3300,
+    "bmi": 22.0,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11520,
+    "bmi": 30.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 39.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 27000,
+    "bmi": 18.7,
+    "blood_loss": 900.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11400,
+    "bmi": 21.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 27.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11340,
+    "bmi": 26.3,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 25200,
+    "bmi": 22.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 50.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 34.1,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 36.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 26100,
+    "bmi": 29.5,
+    "blood_loss": 480.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10200,
+    "bmi": 28.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15000,
+    "bmi": 33.8,
+    "blood_loss": 2600.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11880,
+    "bmi": 28.3,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10080,
+    "bmi": 26.1,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 17100,
+    "bmi": 20.4,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 14100,
+    "bmi": 25.5,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 2100,
+    "bmi": 21.5,
+    "blood_loss": 10.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15000,
+    "bmi": 24.3,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7500,
+    "bmi": 22.1,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13680,
+    "bmi": 25.7,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 32400,
+    "bmi": 19.6,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18000,
+    "bmi": 21.4,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4500,
+    "bmi": 23.2,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 38.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9000,
+    "bmi": 23.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 25800,
+    "bmi": 21.8,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10980,
+    "bmi": 21.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8700,
+    "bmi": 21.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 39300,
+    "bmi": 21.1,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 23.0,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9900,
+    "bmi": 22.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9000,
+    "bmi": 26.0,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9300,
+    "bmi": 24.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8340,
+    "bmi": 18.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 20.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 20100,
+    "bmi": 24.1,
+    "blood_loss": 180.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6900,
+    "bmi": 23.9,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 30.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8700,
+    "bmi": 25.6,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9000,
+    "bmi": 31.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6000,
+    "bmi": 28.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16200,
+    "bmi": 25.8,
+    "blood_loss": 1100.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16200,
+    "bmi": 25.4,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15300,
+    "bmi": 21.1,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 24.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10500,
+    "bmi": 24.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 27.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12300,
+    "bmi": 33.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 30.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18900,
+    "bmi": 37.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 39.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7500,
+    "bmi": 26.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 18.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 3600,
+    "bmi": 22.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16200,
+    "bmi": 21.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 26.4,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10500,
+    "bmi": 26.2,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 26700,
+    "bmi": 21.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 21600,
+    "bmi": 22.8,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 22200,
+    "bmi": 33.1,
+    "blood_loss": 500.0,
+    "mortality": 1,
+    "age": 78.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 24300,
+    "bmi": 21.3,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7500,
+    "bmi": 20.3,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9300,
+    "bmi": 25.3,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 22200,
+    "bmi": 24.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 12296,
+    "bmi": 28.4,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6000,
+    "bmi": 26.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 29.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10800,
+    "bmi": 23.0,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 24.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15180,
+    "bmi": 18.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 3481,
+    "bmi": 26.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 39.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 21900,
+    "bmi": 20.4,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 34200,
+    "bmi": 26.2,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 28200,
+    "bmi": 17.0,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7800,
+    "bmi": 21.8,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 39.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8400,
+    "bmi": 22.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 5400,
+    "bmi": 24.2,
+    "blood_loss": 5.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 20100,
+    "bmi": 25.7,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7800,
+    "bmi": 23.0,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 46200,
+    "bmi": 19.8,
+    "blood_loss": 1100.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13680,
+    "bmi": 26.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16500,
+    "bmi": 21.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 15300,
+    "bmi": 24.0,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 24900,
+    "bmi": 22.4,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9600,
+    "bmi": 31.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16500,
+    "bmi": 22.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13500,
+    "bmi": 21.1,
+    "blood_loss": 80.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 14700,
+    "bmi": 26.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 18000,
+    "bmi": 23.2,
+    "blood_loss": 90.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11100,
+    "bmi": 18.7,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 30.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10200,
+    "bmi": 22.3,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13433,
+    "bmi": 22.7,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 33.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9535,
+    "bmi": 26.7,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 41100,
+    "bmi": 22.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7200,
+    "bmi": 20.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 10200,
+    "bmi": 27.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 6300,
+    "bmi": 23.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 7800,
+    "bmi": 21.5,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 4500,
+    "bmi": 27.4,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9000,
+    "bmi": 24.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 26040,
+    "bmi": 24.9,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 16800,
+    "bmi": 23.1,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 9600,
+    "bmi": 24.9,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 8700,
+    "bmi": 23.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 13200,
+    "bmi": 26.5,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Robotic",
+    "surgery_time": 11400,
+    "bmi": 26.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12900,
+    "bmi": 19.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 17700,
+    "bmi": 20.4,
+    "blood_loss": 2600.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 27.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 81.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 25500,
+    "bmi": 28.4,
+    "blood_loss": 1300.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 1500,
+    "bmi": 19.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9600,
+    "bmi": 26.2,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15600,
+    "bmi": 19.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 85.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 1800,
+    "bmi": 23.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 24300,
+    "bmi": 22.6,
+    "blood_loss": 540.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12000,
+    "bmi": 27.8,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 22800,
+    "bmi": 22.5,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 21900,
+    "bmi": 29.4,
+    "blood_loss": 220.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 20.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 38.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4500,
+    "bmi": 32.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11700,
+    "bmi": 26.1,
+    "blood_loss": 170.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9900,
+    "bmi": 21.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12300,
+    "bmi": 20.6,
+    "blood_loss": 1100.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 17553,
+    "bmi": 19.3,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 18.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10800,
+    "bmi": 20.1,
+    "blood_loss": 420.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10200,
+    "bmi": 19.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 27.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4800,
+    "bmi": 24.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6000,
+    "bmi": 22.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 20100,
+    "bmi": 26.6,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 48.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 17400,
+    "bmi": 20.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 85.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15000,
+    "bmi": 27.5,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2700,
+    "bmi": 22.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8700,
+    "bmi": 38.6,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 25.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10500,
+    "bmi": 19.9,
+    "blood_loss": 70.0,
+    "mortality": 0,
+    "age": 48.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 24900,
+    "bmi": 26.4,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2400,
+    "bmi": 19.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16800,
+    "bmi": 23.2,
+    "blood_loss": 140.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11700,
+    "bmi": 24.6,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 25200,
+    "bmi": 18.7,
+    "blood_loss": 1450.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 24.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2700,
+    "bmi": 26.5,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6900,
+    "bmi": 19.9,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7800,
+    "bmi": 26.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 30.9,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 80.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9300,
+    "bmi": 16.8,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2580,
+    "bmi": 24.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10800,
+    "bmi": 16.9,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9900,
+    "bmi": 26.2,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 23100,
+    "bmi": 21.8,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 21300,
+    "bmi": 20.3,
+    "blood_loss": 1500.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 18000,
+    "bmi": 15.1,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 9.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 23.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16200,
+    "bmi": 26.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6300,
+    "bmi": 21.5,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11700,
+    "bmi": 30.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 33600,
+    "bmi": 24.3,
+    "blood_loss": 2100.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8520,
+    "bmi": 17.8,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 19.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 22.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10800,
+    "bmi": 21.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8305,
+    "bmi": 18.3,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6000,
+    "bmi": 30.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16200,
+    "bmi": 20.5,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6600,
+    "bmi": 29.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 20.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 21.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9600,
+    "bmi": 24.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9300,
+    "bmi": 30.3,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5100,
+    "bmi": 27.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 14280,
+    "bmi": 19.7,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6900,
+    "bmi": 17.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2400,
+    "bmi": 27.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12900,
+    "bmi": 21.2,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12600,
+    "bmi": 23.7,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6900,
+    "bmi": 17.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 26.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3494,
+    "bmi": 24.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4560,
+    "bmi": 25.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 25.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 22200,
+    "bmi": 21.8,
+    "blood_loss": 7650.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10123,
+    "bmi": 22.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 87.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11100,
+    "bmi": 25.0,
+    "blood_loss": 900.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 23.9,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 17100,
+    "bmi": 17.7,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 43.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9900,
+    "bmi": 20.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 19.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 31500,
+    "bmi": 24.8,
+    "blood_loss": 8150.0,
+    "mortality": 0,
+    "age": 89.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5100,
+    "bmi": 24.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3206,
+    "bmi": 22.3,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15147,
+    "bmi": 23.1,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10200,
+    "bmi": 21.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 20400,
+    "bmi": 25.6,
+    "blood_loss": 1100.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16409,
+    "bmi": 19.6,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 21.7,
+    "blood_loss": 240.0,
+    "mortality": 0,
+    "age": 36.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 18.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 28500,
+    "bmi": 21.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 0.7
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 25.1,
+    "blood_loss": 1200.0,
+    "mortality": 1,
+    "age": 31.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 17.4,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12000,
+    "bmi": 21.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4080,
+    "bmi": 23.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 23.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 48.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 26100,
+    "bmi": 31.7,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 0.6
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12900,
+    "bmi": 21.7,
+    "blood_loss": 0.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6000,
+    "bmi": 24.9,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8400,
+    "bmi": 23.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9900,
+    "bmi": 23.7,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 81.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 24.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3300,
+    "bmi": 19.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 36.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7200,
+    "bmi": 26.2,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4440,
+    "bmi": 24.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8700,
+    "bmi": 23.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 21.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11400,
+    "bmi": 15.6,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2657,
+    "bmi": 20.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 24.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6900,
+    "bmi": 17.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9900,
+    "bmi": 22.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 18900,
+    "bmi": 27.2,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6600,
+    "bmi": 25.6,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6000,
+    "bmi": 22.0,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12300,
+    "bmi": 21.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5079,
+    "bmi": 23.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8460,
+    "bmi": 22.8,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 17100,
+    "bmi": 21.0,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 21.3,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 18900,
+    "bmi": 19.7,
+    "blood_loss": 1500.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 20.6,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 23400,
+    "bmi": 22.7,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 14951,
+    "bmi": 24.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5220,
+    "bmi": 20.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8300,
+    "bmi": 19.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2400,
+    "bmi": 24.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 18900,
+    "bmi": 20.9,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2700,
+    "bmi": 25.9,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 82.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3000,
+    "bmi": 21.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 24.1,
+    "blood_loss": 1200.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 18180,
+    "bmi": 28.1,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 36600,
+    "bmi": 15.0,
+    "blood_loss": 6500.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 19987,
+    "bmi": 17.9,
+    "blood_loss": 8900.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 26.3,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15000,
+    "bmi": 18.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10500,
+    "bmi": 19.8,
+    "blood_loss": 16900.0,
+    "mortality": 0,
+    "age": 78.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8100,
+    "bmi": 26.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5700,
+    "bmi": 16.8,
+    "blood_loss": 32.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16440,
+    "bmi": 19.4,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11700,
+    "bmi": 17.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2400,
+    "bmi": 20.8,
+    "blood_loss": 5.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 1800,
+    "bmi": 28.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 38.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7800,
+    "bmi": 26.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3000,
+    "bmi": 20.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 48.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 2400,
+    "bmi": 20.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 25.3,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 27.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12000,
+    "bmi": 25.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6900,
+    "bmi": 26.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 25.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3900,
+    "bmi": 24.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8400,
+    "bmi": 25.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5100,
+    "bmi": 19.7,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16200,
+    "bmi": 24.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 26.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 22.2,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12900,
+    "bmi": 30.9,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10500,
+    "bmi": 20.0,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 80.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6180,
+    "bmi": 22.0,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 43.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 9000,
+    "bmi": 20.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8460,
+    "bmi": 22.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 8820,
+    "bmi": 19.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 82.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5700,
+    "bmi": 20.3,
+    "blood_loss": 50.0,
+    "mortality": 1,
+    "age": 42.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10740,
+    "bmi": 22.1,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16200,
+    "bmi": 22.6,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 14700,
+    "bmi": 18.6,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 21900,
+    "bmi": 19.6,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 13800,
+    "bmi": 24.1,
+    "blood_loss": 155.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3506,
+    "bmi": 24.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5700,
+    "bmi": 22.0,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6600,
+    "bmi": 19.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15300,
+    "bmi": 18.3,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6300,
+    "bmi": 17.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 19560,
+    "bmi": 24.5,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 81.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 25187,
+    "bmi": 22.8,
+    "blood_loss": 1150.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4584,
+    "bmi": 26.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4200,
+    "bmi": 21.4,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 19.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3600,
+    "bmi": 21.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15000,
+    "bmi": 25.8,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7749,
+    "bmi": 25.7,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10800,
+    "bmi": 17.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15480,
+    "bmi": 25.0,
+    "blood_loss": 850.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12600,
+    "bmi": 20.0,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 18000,
+    "bmi": 21.4,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 12600,
+    "bmi": 18.3,
+    "blood_loss": 6500.0,
+    "mortality": 0,
+    "age": 18.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 3300,
+    "bmi": 23.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10500,
+    "bmi": 20.6,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 40.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 14700,
+    "bmi": 25.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 17.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 20.9,
+    "blood_loss": 1000.0,
+    "mortality": 0,
+    "age": 50.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 4380,
+    "bmi": 23.9,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 10800,
+    "bmi": 25.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 36.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 5400,
+    "bmi": 20.7,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 25.4,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6600,
+    "bmi": 22.2,
+    "blood_loss": 355.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 17100,
+    "bmi": 24.5,
+    "blood_loss": 2200.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 11700,
+    "bmi": 18.3,
+    "blood_loss": 900.0,
+    "mortality": 0,
+    "age": 50.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 14100,
+    "bmi": 20.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 16800,
+    "bmi": 24.4,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 7500,
+    "bmi": 24.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 32.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 6300,
+    "bmi": 23.5,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Open",
+    "surgery_time": 15600,
+    "bmi": 24.1,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11400,
+    "bmi": 22.2,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 17400,
+    "bmi": 23.8,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3900,
+    "bmi": 26.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6180,
+    "bmi": 27.7,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 22489,
+    "bmi": 20.3,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8400,
+    "bmi": 25.6,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 21.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 17100,
+    "bmi": 23.6,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9000,
+    "bmi": 25.4,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8201,
+    "bmi": 25.0,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11100,
+    "bmi": 17.8,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10734,
+    "bmi": 19.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 24.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12000,
+    "bmi": 26.4,
+    "blood_loss": 190.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6300,
+    "bmi": 20.9,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10500,
+    "bmi": 23.5,
+    "blood_loss": 550.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6300,
+    "bmi": 23.8,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 78.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9300,
+    "bmi": 26.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12900,
+    "bmi": 23.2,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10200,
+    "bmi": 29.8,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3840,
+    "bmi": 24.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 17100,
+    "bmi": 19.3,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2601,
+    "bmi": 23.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 35375,
+    "bmi": 22.8,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9300,
+    "bmi": 26.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7500,
+    "bmi": 23.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 35.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9300,
+    "bmi": 29.9,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13500,
+    "bmi": 22.7,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6900,
+    "bmi": 20.2,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 26.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10620,
+    "bmi": 21.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5400,
+    "bmi": 22.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8100,
+    "bmi": 21.3,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12600,
+    "bmi": 16.1,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 21.9,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9300,
+    "bmi": 17.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 22.6,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13200,
+    "bmi": 25.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15300,
+    "bmi": 24.5,
+    "blood_loss": 800.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7207,
+    "bmi": 23.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8580,
+    "bmi": 32.6,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15900,
+    "bmi": 16.9,
+    "blood_loss": 710.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11400,
+    "bmi": 21.6,
+    "blood_loss": 110.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8640,
+    "bmi": 24.9,
+    "blood_loss": 1200.0,
+    "mortality": 0,
+    "age": 43.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12096,
+    "bmi": 26.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10500,
+    "bmi": 21.5,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5100,
+    "bmi": 26.8,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 23.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13186,
+    "bmi": 20.0,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15300,
+    "bmi": 18.9,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 48.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 1800,
+    "bmi": 27.2,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14700,
+    "bmi": 21.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 69.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7500,
+    "bmi": 26.2,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 24.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12202,
+    "bmi": 24.6,
+    "blood_loss": 130.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6900,
+    "bmi": 34.2,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5400,
+    "bmi": 25.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 26.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8100,
+    "bmi": 29.2,
+    "blood_loss": 80.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5700,
+    "bmi": 25.7,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 45.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 26580,
+    "bmi": 25.2,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 50.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5400,
+    "bmi": 25.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4200,
+    "bmi": 20.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6559,
+    "bmi": 21.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10500,
+    "bmi": 22.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 18300,
+    "bmi": 27.8,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 33.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8400,
+    "bmi": 23.4,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 26.9,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11100,
+    "bmi": 18.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12900,
+    "bmi": 23.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 25.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6300,
+    "bmi": 23.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6000,
+    "bmi": 17.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4500,
+    "bmi": 20.3,
+    "blood_loss": 10.0,
+    "mortality": 0,
+    "age": 50.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7800,
+    "bmi": 23.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7440,
+    "bmi": 25.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9120,
+    "bmi": 28.7,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 25.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9300,
+    "bmi": 12.9,
+    "blood_loss": 60.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8400,
+    "bmi": 25.4,
+    "blood_loss": 80.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7500,
+    "bmi": 27.2,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15300,
+    "bmi": 25.2,
+    "blood_loss": 0.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15300,
+    "bmi": 25.1,
+    "blood_loss": 472.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 16200,
+    "bmi": 28.5,
+    "blood_loss": 210.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5100,
+    "bmi": 20.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10800,
+    "bmi": 19.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3000,
+    "bmi": 20.4,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 37.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5100,
+    "bmi": 26.4,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 20100,
+    "bmi": 21.0,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 34.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11400,
+    "bmi": 21.6,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13200,
+    "bmi": 25.4,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 81.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10800,
+    "bmi": 20.7,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10200,
+    "bmi": 21.3,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4800,
+    "bmi": 20.3,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 20.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11100,
+    "bmi": 20.6,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14520,
+    "bmi": 27.2,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 25.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2100,
+    "bmi": 28.3,
+    "blood_loss": 80.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6300,
+    "bmi": 27.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4800,
+    "bmi": 20.2,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6000,
+    "bmi": 21.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5100,
+    "bmi": 19.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15900,
+    "bmi": 23.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 36.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7800,
+    "bmi": 21.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4560,
+    "bmi": 25.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3300,
+    "bmi": 26.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7800,
+    "bmi": 25.0,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15600,
+    "bmi": 18.8,
+    "blood_loss": 40.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8400,
+    "bmi": 20.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 78.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15300,
+    "bmi": 24.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11400,
+    "bmi": 19.9,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 22.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8040,
+    "bmi": 26.8,
+    "blood_loss": 130.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9900,
+    "bmi": 25.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3300,
+    "bmi": 29.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6120,
+    "bmi": 27.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8100,
+    "bmi": 26.8,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 67.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 21420,
+    "bmi": 22.9,
+    "blood_loss": 1250.0,
+    "mortality": 0,
+    "age": 63.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7500,
+    "bmi": 20.6,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10800,
+    "bmi": 27.0,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 53.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 17700,
+    "bmi": 24.7,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8100,
+    "bmi": 24.5,
+    "blood_loss": 190.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9480,
+    "bmi": 25.3,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 78.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15300,
+    "bmi": 19.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 76.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7200,
+    "bmi": 20.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9600,
+    "bmi": 22.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6300,
+    "bmi": 23.7,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 25.1,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9600,
+    "bmi": 21.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5400,
+    "bmi": 26.4,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 41.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10500,
+    "bmi": 20.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3000,
+    "bmi": 24.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 16744,
+    "bmi": 18.7,
+    "blood_loss": 1000.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5685,
+    "bmi": 23.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7800,
+    "bmi": 24.4,
+    "blood_loss": 70.0,
+    "mortality": 0,
+    "age": 68.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13172,
+    "bmi": 24.0,
+    "blood_loss": 70.0,
+    "mortality": 0,
+    "age": 48.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12300,
+    "bmi": 26.2,
+    "blood_loss": 89.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10500,
+    "bmi": 20.5,
+    "blood_loss": 140.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4800,
+    "bmi": 23.2,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11400,
+    "bmi": 21.7,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8400,
+    "bmi": 23.2,
+    "blood_loss": 300.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9226,
+    "bmi": 25.1,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3600,
+    "bmi": 33.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 3900,
+    "bmi": 20.7,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 900,
+    "bmi": 21.7,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 73.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 25.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 43.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7500,
+    "bmi": 24.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 59.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6900,
+    "bmi": 25.0,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 79.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9000,
+    "bmi": 27.0,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 47.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11100,
+    "bmi": 23.0,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8100,
+    "bmi": 19.1,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13980,
+    "bmi": 24.4,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5700,
+    "bmi": 19.7,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14700,
+    "bmi": 27.2,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 65.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5995,
+    "bmi": 20.8,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 71.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 2400,
+    "bmi": 20.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 39.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 10200,
+    "bmi": 25.5,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 1800,
+    "bmi": 32.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13500,
+    "bmi": 21.1,
+    "blood_loss": 1150.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6300,
+    "bmi": 24.8,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15000,
+    "bmi": 23.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14700,
+    "bmi": 24.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 42.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15000,
+    "bmi": 25.4,
+    "blood_loss": 500.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12372,
+    "bmi": 25.2,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11700,
+    "bmi": 26.1,
+    "blood_loss": 230.0,
+    "mortality": 0,
+    "age": 54.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6900,
+    "bmi": 20.4,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 62.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8700,
+    "bmi": 24.5,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 50.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 1800,
+    "bmi": 19.9,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 43.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8400,
+    "bmi": 17.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9900,
+    "bmi": 21.1,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11100,
+    "bmi": 26.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 4953,
+    "bmi": 22.7,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 55.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9407,
+    "bmi": 24.6,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 77.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11400,
+    "bmi": 17.8,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 29.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11220,
+    "bmi": 21.4,
+    "blood_loss": 175.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9900,
+    "bmi": 22.1,
+    "blood_loss": 170.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 19800,
+    "bmi": 18.9,
+    "blood_loss": 150.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 11700,
+    "bmi": 22.9,
+    "blood_loss": 270.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13800,
+    "bmi": 20.5,
+    "blood_loss": 600.0,
+    "mortality": 0,
+    "age": 74.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14400,
+    "bmi": 21.0,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 17100,
+    "bmi": 25.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 46.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8100,
+    "bmi": 20.8,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 15000,
+    "bmi": 20.1,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 49.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 19800,
+    "bmi": 24.9,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 52.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14100,
+    "bmi": 21.6,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 82.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 16500,
+    "bmi": 24.9,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 72.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9114,
+    "bmi": 24.0,
+    "blood_loss": 230.0,
+    "mortality": 0,
+    "age": 70.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14700,
+    "bmi": 23.3,
+    "blood_loss": 350.0,
+    "mortality": 0,
+    "age": 28.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 8700,
+    "bmi": 24.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 61.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 25800,
+    "bmi": 24.1,
+    "blood_loss": 700.0,
+    "mortality": 0,
+    "age": 17.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12900,
+    "bmi": 20.5,
+    "blood_loss": 250.0,
+    "mortality": 0,
+    "age": 57.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9420,
+    "bmi": 20.9,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 66.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6600,
+    "bmi": 25.1,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 79.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 14700,
+    "bmi": 21.3,
+    "blood_loss": 70.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 1500,
+    "bmi": 25.1,
+    "blood_loss": 20.0,
+    "mortality": 0,
+    "age": 51.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 5400,
+    "bmi": 31.3,
+    "blood_loss": 100.0,
+    "mortality": 0,
+    "age": 60.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 1500,
+    "bmi": 19.4,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 58.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 9600,
+    "bmi": 24.1,
+    "blood_loss": 450.0,
+    "mortality": 0,
+    "age": 64.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 17400,
+    "bmi": 24.8,
+    "blood_loss": 750.0,
+    "mortality": 0,
+    "age": 44.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 7980,
+    "bmi": 19.5,
+    "blood_loss": 50.0,
+    "mortality": 0,
+    "age": 75.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 13800,
+    "bmi": 24.5,
+    "blood_loss": 400.0,
+    "mortality": 0,
+    "age": 39.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 12900,
+    "bmi": 26.7,
+    "blood_loss": 200.0,
+    "mortality": 0,
+    "age": 56.0
+  },
+  {
+    "approach": "Videoscopic",
+    "surgery_time": 6000,
+    "bmi": 29.9,
+    "blood_loss": 30.0,
+    "mortality": 0,
+    "age": 56.0
+  }
+]
