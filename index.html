@@ -5,6 +5,18 @@
   <title>Comparing Surgical Approaches Across Time, BMI, Blood Loss, Mortality, and Age</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    #tooltip {
+      position: absolute;
+      background: rgba(255, 255, 255, 0.9);
+      border: 1px solid #ccc;
+      padding: 8px;
+      font-size: 12px;
+      pointer-events: none;
+      display: none;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    }
+  </style>
 </head>
 <body>
   <h2>Comparing Surgical Approaches Across Time, BMI, Blood Loss, Mortality, and Age</h2>
@@ -22,6 +34,8 @@
   <div class="legend-wrapper">
     <div class="legend" id="legend"></div>
   </div>
+
+  <div id="tooltip"></div>
 
   <script>
     const svg = d3.select("#chart");
@@ -50,6 +64,8 @@
       { key: "death_inhosp", label: "Death in Hospital" },
       { key: "age", label: "Age (years)" }
     ];
+
+    const tooltip = d3.select("#tooltip");
 
     d3.json("cases_filtered.json").then(data => {
       data.forEach((d, i) => d._id = i);
@@ -126,7 +142,30 @@
       paths.join(
         enter => enter.append("path")
           .attr("d", d => line(dimensions.map(p => [xScale(p.label), yScale[p.key](+d[p.key])])))
-          .attr("class", d => `approach-${d.approach.toLowerCase()}`),
+          .attr("class", d => `approach-${d.approach.toLowerCase()}`)
+          .attr("stroke", d => colorMap[d.approach])
+          .attr("fill", "none")
+          .attr("stroke-width", 1.5)
+          .on("mouseover", function(event, d) {
+            d3.select(this).attr("stroke-width", 3);
+
+            tooltip.style("display", "block")
+              .html(`
+                <strong>Surgery Time:</strong> ${d.surgery_time_hours} hrs<br/>
+                <strong>BMI:</strong> ${d.bmi}<br/>
+                <strong>Blood Loss:</strong> ${d.intraop_ebl} mL<br/>
+                <strong>Death in Hospital:</strong> ${d.death_inhosp ? "Yes" : "No"}<br/>
+                <strong>Age:</strong> ${d.age} yrs
+              `);
+          })
+          .on("mousemove", function(event) {
+            tooltip.style("left", (event.pageX + 10) + "px")
+                   .style("top", (event.pageY - 28) + "px");
+          })
+          .on("mouseout", function() {
+            d3.select(this).attr("stroke-width", 1.5);
+            tooltip.style("display", "none");
+          }),
         update => update,
         exit => exit.remove()
       );
