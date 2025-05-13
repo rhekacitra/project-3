@@ -56,6 +56,7 @@
     const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
 
     let allData, yScale, xScale;
+    let brushingNow = false;
 
     const dimensions = [
       { key: "surgery_time_hours", label: "Surgery Time (hours)" },
@@ -117,6 +118,18 @@
         .text(d => d.label);
 
       drawLines(getSelectedApproaches());
+      addBrushes();
+
+      // Clear brushes when clicking outside
+      d3.select("body").on("click", function (event) {
+        const isBrushClick = event.target.closest(".brush");
+        if (!isBrushClick && !brushingNow) {
+          g.selectAll(".brush").each(function () {
+            d3.select(this).call(d3.brush().clear);
+          });
+          drawLines(getSelectedApproaches());
+        }
+      });
     });
 
     function drawLines(approaches) {
@@ -131,13 +144,17 @@
         return order[a.approach] - order[b.approach];
       });
 
+      drawFilteredLines(filtered);
+    }
+
+    function drawFilteredLines(data) {
       let pathGroup = g.select("g.foreground");
       if (pathGroup.empty()) {
         pathGroup = g.append("g").attr("class", "foreground");
       }
 
       const paths = pathGroup.selectAll("path")
-        .data(filtered, d => d._id);
+        .data(data, d => d._id);
 
       paths.join(
         enter => enter.append("path")
@@ -148,7 +165,6 @@
           .attr("stroke-width", 1.5)
           .on("mouseover", function(event, d) {
             d3.select(this).attr("stroke-width", 3);
-
             tooltip.style("display", "block")
               .html(`
                 <strong>Surgery Time:</strong> ${d.surgery_time_hours} hrs<br/>
@@ -169,6 +185,52 @@
         update => update,
         exit => exit.remove()
       );
+    }
+
+    function addBrushes() {
+      g.selectAll(".brush").remove();
+
+      dimensions.forEach(({ key, label }) => {
+        const brush = d3.brushY()
+          .extent([[ -10, 0 ], [ 10, innerHeight ]])
+          .on("start", () => brushingNow = true)
+          .on("end", function(event) {
+            brushingNow = false;
+            brushed(event);
+          });
+
+        g.append("g")
+          .attr("class", "brush")
+          .attr("transform", `translate(${xScale(label)},0)`)
+          .call(brush);
+      });
+
+      function brushed(event) {
+        const activeFilters = new Map();
+
+        g.selectAll(".brush")
+          .each(function(d, i) {
+            const selection = d3.brushSelection(this);
+            const key = dimensions[i].key;
+            if (selection) {
+              const [y0, y1] = selection;
+              activeFilters.set(key, [yScale[key].invert(y1), yScale[key].invert(y0)]);
+            }
+          });
+
+        const selectedApproaches = getSelectedApproaches();
+        const filtered = allData.filter(d => {
+          if (!selectedApproaches.includes(d.approach)) return false;
+
+          for (const [dim, [min, max]] of activeFilters) {
+            const val = +d[dim];
+            if (val < min || val > max) return false;
+          }
+          return true;
+        });
+
+        drawFilteredLines(filtered);
+      }
     }
 
     function getSelectedApproaches() {
