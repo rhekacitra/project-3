@@ -37,6 +37,48 @@
 
   <div id="tooltip"></div>
 
+    <div class="text">
+    <section>
+      <h2>Design Rationale</h2>      
+      <p><strong>Visual Encoding:</strong></p>
+      <ul>
+        <li>This visualization is created based on the <a href="https://vitaldb.net/dataset/">VitalDB Korean Surgery Dataset</a>. Given the growing trend toward minimally invasive techniques, particularly robotic and video-assisted surgeries, it is crucial to understand how these approaches compare in practice. By focusing on the surgical approach, we can explore how these modern methods impact patient outcomes and interact with other key variables. That's why we chose different surgical approaches (robotic, video-assisted, open) that require varying techniques and resources, which might affect factors such as surgery time, BMI, blood loss, mortality rate, and age.</li>
+        <li>We selected a parallel coordinate plot as the primary visualization type because it is well-suited for displaying trends across multiple continuous variables (e.g., surgery time, BMI, blood loss, mortality rate, and age).</li>
+        <li>Due to the class imbalance in the surgical approach, we chose a bright red color for the robotic approach to make it stand out against the other methods. This ensures that the robotic approach does not get overshadowed by the larger datasets of the video-assisted and open approaches.</li>
+      </ul>
+
+      <p><strong>Interaction:</strong></p>
+      <ul>
+        <li>We implemented filtering options using buttons that allow users to view only the data relevant to their interests, specifically surgical approaches (robotic, video, open). This reduces visual clutter and helps users focus on specific subsets of data.</li>
+        <li>Tooltips were created to highlight individual data points when a user hovers over them, making it easier for users to track specific lines across the plot and gain a deeper understanding of the data.</li>
+        <li>We also added a brushing tool that enables users to select specific ranges of data by dragging a selection box over the plot. This allows users to zoom in on particular subsets of data (e.g., specific ranges of surgery time, BMI, or blood loss), dynamically updating the plot to focus on selected data. This feature enhances user interaction, enabling users to explore specific trends more interactively.</li>
+        <li>Additionally, each time the filtering options are changed, the data is randomly sampled to ensure that other data points may be included, providing a more diverse and representative view each time. This approach helps keep the data dynamic and prevents it from being fixed to a single subset, allowing users to see different patterns based on their selection.</li>
+      </ul>
+      
+      <p><strong>Data Transformation:</strong></p>
+      <ul>
+        <li>Data reduction and binning: We implemented data reduction techniques to enhance visibility and avoid overcrowding the graph. By simplifying the data presentation, we ensured that users can easily discern patterns without being overwhelmed by excessive details. This includes binning the data to group similar values and make comparisons more intuitive.</li>
+        <li>Handling extreme outliers: The feature <code>'Death in Hospital'</code> shows only one value (0) because we filtered the data to include only the middle 50th percentile of blood loss. This decision was made due to the presence of extreme outliers in the blood loss data, which caused the scale to be extremely large. Filtering the data allowed us to better visualize the trends and make the plot more interpretable. We suspect that extreme blood loss cases were likely associated with patients who passed away.</li>
+      </ul>
+    </section>
+    
+    <section>
+      <h2>Development Process</h2>
+      <p>The development process began with a brainstorming session where we discussed various interactions and features to include in the visualization. This involved deciding on elements such as tooltips for better user experience, filtering buttons to allow for customizable data exploration, and choices around color schemes to make the data visually clear and distinguishable. We also deliberated on the most appropriate visualization type to represent the data, ultimately deciding on a parallel coordinates plot for its ability to show multi-dimensional trends.</p>
+            
+      <p>The entire development process took approximately 5 hours. The most time-consuming part of the project was building and refining the parallel coordinates plot. This involved configuring the axes, incorporating interactive features, and ensuring the data was correctly mapped to the visualization. The addition of the brushing tool required extra time for integration and testing to ensure smooth interaction with the rest of the plot. The other tasks, including adding tooltips, implementing the filtering buttons, and deploying the site, were quicker and smoother once the visualization type was in place.</p>
+      
+      <p>The work was divided among three team members:</p>
+      <ul>
+        <li><strong>Viki Shi</strong> and <strong>Katrina Suherman</strong>: were primarily responsible for the final visualization. Their tasks included adding interactive design elements (e.g., tooltips, filtering options, and the brushing feature), transforming the data into the correct format for the plot, and finalizing the color scheme for the different surgical approaches.</li>
+        <li><strong>Rheka Narwastu</strong>: focused on deploying the web page, ensuring it was accessible online, and providing answers to two key write-up questions.</li>
+      </ul>
+    </section>
+    
+    
+
+  </div>
+
   <script>
     const svg = d3.select("#chart");
     const width = +svg.attr("width");
