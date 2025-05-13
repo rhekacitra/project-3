@@ -74,3 +74,56 @@ path.approach-videoscopic {
   stroke-opacity: 0.3;
   fill: none;
 }
+
+/* Design Rationale and Development Process */
+.text {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  max-width: 100%; /* Default max width 100% */
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text h2 {
+  font-size: 1.5rem;
+  color: #2980b9;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.text p {
+  font-size: 1rem;
+  color: #4b5353;
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+.text ul {
+  margin-left: 20px;
+  list-style-type: disc;
+  color: #4b5353;
+}
+
+.text li {
+  font-size: 1rem;
+  color: #4b5353;
+  margin-bottom: 8px;
+}
+
+.text a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.text a:hover {
+  text-decoration: underline;
+}
+
